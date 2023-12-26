@@ -32,5 +32,3 @@ The simulation execution is broken down into several intervals of time:
 ## Optimizers
 
 ## Activations
-
-Test Change
